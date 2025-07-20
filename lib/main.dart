@@ -1,8 +1,8 @@
-diddmport 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import 'package:rakshanav/pages/home_page.dart';
 import 'package:rakshanav/pages/indro_page.dart';
 import 'package:rakshanav/themes/light_mode.dart';
-import 'package:rakshanav/themes/dark_mode.dart'; 
+import 'package:rakshanav/themes/dark_mode.dart';
 
 void main() {
   runApp(const MainApp());
